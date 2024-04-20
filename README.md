@@ -16,8 +16,11 @@
 </div>   
 
 ## 
+<p>
 <div> 
   <a href="https://instagram.com/marinaluiza.paiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatomluizadearaujopaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+</p>
+
 <img  width=100%  src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0447.gif" border="0" alt="linha-imagem-animada-0447" />
