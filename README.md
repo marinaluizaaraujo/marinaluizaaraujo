@@ -1,6 +1,6 @@
 <img  width=100%  src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0447.gif" border="0" alt="linha-imagem-animada-0447" />
 
-## Oii! Me chamo Marina Luiza de Araujo Paiva, e estou iniciando no Frot_End!!
+## Oii! Me chamo Marina Luiza de Araujo Paiva, e estou iniciando no Front_End!!
 
 <a href="https://github.com/marinaluizaaraujo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marinaluizaaraujo&show_icons=true&theme=tokyonight" />
