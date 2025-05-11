@@ -7,33 +7,45 @@
 
 ## Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma na Fatec.
+</p>
+<p align="left">
 - 🌱 Aprendendo mais sobre desenvolvimento Front-End e Back-End.
+</p>
+<p align="left">
 - 🤔 Explorando novas tecnologias .
-
-<p >
-  <td>
-      <a href="https://github.com/marinaluizaaraujo/convoychat">
-             <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=marinaluizaaraujo&show_icons=true&theme=tokyonight"
-        alt="Github Stats"
-      />
-</a>
-  </td>
-
-  <td>
-    <a href="https://github.com/marinaluizaaraujo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marinaluizaaraujo&show_icons=true&theme=tokyonight" />
-</a>
-  </td>
 </p>
 
-<div>
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-</div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaluizaaraujo&layout=compact&theme=tokyonight&card_width=320" />
-<p>
+   
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marinaluizaaraujo/convoychat">
+             <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinaluizaaraujo&show_icons=true&theme=tokyonight" alt="Github Stats"  />
+</a>
+    </td>
+    <td>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaluizaaraujo&layout=compact&theme=tokyonight&card_width=320" />
+    </td>
+    <td>
+      <br />
+  <a href="https://github.com/marinaluizaaraujo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marinaluizaaraujo&show_icons=true&theme=tokyonight" />
+</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## Minhas Skills
 
