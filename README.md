@@ -2,21 +2,27 @@
 <img width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" />
 
 <h1>
- Oii, eu me chamo Marina Luiza Paiva! 💜 
+ Oii, eu me chamo Marina Luiza Paiva!  👋
 </h1>
 
-## Sobre mim
+## Sobre mim 💜
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-- 🎓 Estudando Desenvolvimento de Software Multiplataforma na Fatec.
+- 🎓  Cursando Desenvolvimento de Software Multiplataforma na Fatec.
 </p>
 <p align="left">
-- 🌱 Aprendendo mais sobre desenvolvimento Front-End e Back-End.
+- 📅 Curso de Informática para a Internet concluido em - 2024
 </p>
 <p align="left">
-- 🤔 Explorando novas tecnologias .
+- 💻  Desenvolvendo minhas habilidades no Front-End e Back-End.
+</p>
+<p align="left">
+- 🚀 Explorando novas tecnologias .
+</p>
+<p align="left">
+- 🌱  Sempre buscando aprender!
 </p>
 
    
@@ -47,7 +53,7 @@
 
 
 
-## Minhas Skills
+##  Skills 🎯
 
 <p style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -75,13 +81,16 @@
   
   ## Ferramentas de Desenvolvimento
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<p display:inline_block>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 
 </p>
 
-## Contatos
+## Contatos 💬
 <p>
 <div> 
   <a href="https://instagram.com/marinaluiza.paiva" target="_blank">
