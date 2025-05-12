@@ -97,11 +97,11 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href = "mailto:contatomarina.araujo.paiva@gmail.com">
+  <a href = "mailto:marina.araujo.paiva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href = "www.linkedin.com/in/marina-luiza-araujo-paiva">
+  <a href = "https://www.linkedin.com/in/marina-luiza-araujo-paiva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
