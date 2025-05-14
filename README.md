@@ -13,7 +13,7 @@
 - 🎓  Cursando Desenvolvimento de Software Multiplataforma na FATEC
 </p>
 <p align="left">
-- 📅 Curso de Informática para a Internet FIEC concluido em - 2024
+- 📅 Curso de Informática para a Internet da FIEC concluido em - 2024
 </p>
 <p align="left">
 - 💻  Desenvolvendo minhas habilidades no Front-End e Back-End.
