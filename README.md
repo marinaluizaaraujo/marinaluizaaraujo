@@ -10,10 +10,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-- 🎓  Cursando Desenvolvimento de Software Multiplataforma na Fatec.
+- 🎓  Cursando Desenvolvimento de Software Multiplataforma na FATEC
 </p>
 <p align="left">
-- 📅 Curso de Informática para a Internet Fiec concluido em - 2024
+- 📅 Curso de Informática para a Internet FIEC concluido em - 2024
 </p>
 <p align="left">
 - 💻  Desenvolvendo minhas habilidades no Front-End e Back-End.
