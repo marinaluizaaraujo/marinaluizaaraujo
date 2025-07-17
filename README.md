@@ -10,13 +10,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-- 🎓  Cursando Desenvolvimento de Software Multiplataforma na FATEC
+- 🎓  Cursando <strong> Desenvolvimento de Software Multiplataforma </strong> na FATEC
 </p>
 <p align="left">
-- 📅 Curso de Informática para a Internet da FIEC concluido em - 2024
+- 📅 Curso de <strong> Informática para a Internet </strong> pela FIEC concluido em - 2024
 </p>
 <p align="left">
-- 💻  Desenvolvendo minhas habilidades no Front-End e Back-End.
+- 💻  Desenvolvendo minhas habilidades no <strong> Front-End </strong> e <strong> Back-End </strong>.
 </p>
 <p align="left">
 - 🚀 Explorando novas tecnologias .
@@ -25,17 +25,11 @@
 - 🌱  Sempre buscando aprender!
 </p>
 
-   
 
 
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/marinaluizaaraujo/convoychat">
-             <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinaluizaaraujo&show_icons=true&theme=tokyonight" alt="Github Stats"  />
-</a>
-    </td>
     <td>
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaluizaaraujo&layout=compact&theme=tokyonight&card_width=320" />
     </td>
@@ -67,7 +61,7 @@
 
 <p>
   
-  ## DevOps
+  ## DevOps ⚙️
 
 <p style="display: inline_block">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> 
@@ -79,7 +73,7 @@
 
 <p>
   
-  ## Ferramentas de Desenvolvimento
+  ## Ferramentas de Desenvolvimento 💼
 
 <p display:inline_block>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -90,7 +84,7 @@
 
 </p>
 
-## Contatos 💬
+## Contatos 💬 
 <p>
 <div> 
   <a href="https://instagram.com/marinaluiza.paiva" target="_blank">
@@ -101,7 +95,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href = "https://www.linkedin.com/in/marina-luiza-araujo-paiva" target="_blank">
+  <a href = "https://www.linkedin.com/in/marina-luiza-paiva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
