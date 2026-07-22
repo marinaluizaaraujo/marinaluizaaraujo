@@ -25,64 +25,26 @@
 - 🌱  Sempre buscando aprender!
 </p>
 
+</br> 
+</br> 
+</br> 
 
+## <span style="color:#EE0000;"> Habilidades Técnicas e Ferramentas</span>
 
+<table align="center">
+<tr>
+<td>
+ 
+| **Categoria** | **Tecnologias** |
+|----------------|-----------------|
+| **Linguagens / Frameworks** |  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  [![Js](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |
+| **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) [![MaterialUi](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev) |
+| **Banco de Dados** | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)|
+| **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) [![Idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev) |
 
-<table>
-  <tr>
-    <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaluizaaraujo&layout=compact&theme=tokyonight&card_width=320" />
-    </td>
-    <td>
-      <br />
-  <a href="https://github.com/marinaluizaaraujo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marinaluizaaraujo&show_icons=true&theme=tokyonight" />
-</a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
-
-
-
-
-
-##  Skills 🎯
-
-<p style="display: inline_block"><br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
-</p>   
-
-<p>
-  
-  ## DevOps ⚙️
-
-<p style="display: inline_block">
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-</p>   
-
-</p>
-
-
-<p>
-  
-  ## Ferramentas de Desenvolvimento 💼
-
-<p display:inline_block>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-
-</p>
 
 ## Contatos 💬 
 <p>
