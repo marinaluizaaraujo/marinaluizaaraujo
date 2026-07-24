@@ -37,7 +37,7 @@
  
 | **Categoria** | **Tecnologias** |
 |----------------|-----------------|
-| **Linguagens / Frameworks** |  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  [![Js](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |
+| **Linguagens / Frameworks** |  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)  [![Js](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |
 | **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) [![MaterialUi](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev) |
 | **Banco de Dados** | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)|
 | **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) [![Idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev) |
